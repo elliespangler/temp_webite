@@ -1,0 +1,39 @@
+---
+title: "Ellie Spangler"
+about:
+  id: intro-heading
+  template: trestles
+  image: images/profilepic.JPG
+  links:
+    - icon: linkedin
+      href: https://www.linkedin.com/in/ellie-spangler/
+    - icon: github
+      href: https://github.com/elliespangler
+---
+# About Me
+
+Ellie Spangler is a dual Political Science and Economics major at Macalester College with a minor in Data Science. With a strong academic record and hands-on experience, she has interned at organizations such as the American Federation of Teachers and the Office of U.S. Senator Tina Smith, contributing to research, policy analysis, and advocacy. Ellie is passionate about the intersection of technology, economics and social policy, using her skills in Python and R Studio to pursue data-driven policy development.
+
+# Education
+
+*Macalester College* \| St. Paul MN <br>
+
+B.A. in Political Science \| Sept 2022 - May 2026
+
+# Work Experience
+
+*American Federation of Teachers* \| Educational Issues Intern \| June 2024 - July 2024
+
+*Roosevelt Network* \| Roosevelt in Washington Fellow \| March 2023-August 2024
+
+*Twin Cities Innovation Alliance* \| NOTICE (No Tech Criminalization in Education) Coalition Intern \| June 2023 - Present
+
+*Macalester College* \| Academic Year Fundraiser \| Sep. 2023 - Present
+
+*Roosevelt Institute* \| Forge Fellow \| June 2023 - January 2024
+
+*Office of U.S. Senator Tina Smith* \| Legislative Research Intern \| Jan. 2023 - May 2023
+
+*Minnesota Democratic Farmer-Labor Party* \| Party Affairs and Training Intern \| Aug. 2022 - Dec. 2022 
+
+

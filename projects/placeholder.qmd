@@ -1,0 +1,9 @@
+---
+title: "Sample Project"
+description: "This is a placeholder project. More exciting projects coming soon!"
+categories: ["Placeholder"]
+---
+
+# Sample Project
+
+This is a placeholder for future projects. Stay tuned for more updates!
